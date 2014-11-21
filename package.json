@@ -1,0 +1,19 @@
+{
+  "name": "openweathermap",
+  "version": "0.1.2",
+  "description": "node red node reads openweathermap with unit and language selection",
+  "main": "weather.js",
+  "keywords": [
+    "openweathermap",
+    "weather"
+    "node-red",
+    "raspberry_pi"
+  ],
+  "author": "",
+  "license": "MIT",
+  "node-red": {
+    "nodes": {
+      "weather": "weather.js"
+    }
+  }
+}
