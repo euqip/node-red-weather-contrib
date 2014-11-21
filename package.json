@@ -5,7 +5,7 @@
   "main": "weather.js",
   "keywords": [
     "openweathermap",
-    "weather"
+    "weather",
     "node-red",
     "raspberry_pi"
   ],
